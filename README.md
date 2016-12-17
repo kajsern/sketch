@@ -1,0 +1,1 @@
+This will be my first project with jQuery, and it will be exciting!
